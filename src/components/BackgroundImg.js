@@ -7,7 +7,7 @@ function BackgroundImg() {
         <div>
            <div>
             <Card style={{ width: '100%', minHeight: "400px", backgroundColor: "#DEEED6"}} className="bg-dark text-black">
-              <Card.Img style={{ height: "100%", width: "30%", float: "right" }} src="https://d2d8wwwkmhfcva.cloudfront.net/1500x1520/d2guulkeunn7d8.cloudfront.net/assets/homepage/homepage-mobile-background-m3-high-res-ca3279087ea0a3337f671b694b196d43fd207443d5825e61295b0996974835e9.jpg" alt="Card Img"/>
+              <Card.Img style={{ height: "400px", width: "20%", float: "right" }} src="https://d2d8wwwkmhfcva.cloudfront.net/1500x1520/d2guulkeunn7d8.cloudfront.net/assets/homepage/homepage-mobile-background-m3-high-res-ca3279087ea0a3337f671b694b196d43fd207443d5825e61295b0996974835e9.jpg" alt="Card Img"/>
                <Card.ImgOverlay style={{ top: "auto", width: "578px", marginLeft: "100px", marginBottom: "50px"}}>
                 <Card.Text style={{fontSize: "2.5em", fontWeight: "bold" }}>
                   Order groceries for delivery <br /> or pickup today
